@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "redsoft", "redsoft\redsoft.csproj", "{07590725-F764-4AE7-AE14-BADA624BB8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E15A036F-97E8-4E61-B258-8CA3F6B72DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07590725-F764-4AE7-AE14-BADA624BB8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07590725-F764-4AE7-AE14-BADA624BB8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07590725-F764-4AE7-AE14-BADA624BB8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07590725-F764-4AE7-AE14-BADA624BB8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15A036F-97E8-4E61-B258-8CA3F6B72DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15A036F-97E8-4E61-B258-8CA3F6B72DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15A036F-97E8-4E61-B258-8CA3F6B72DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15A036F-97E8-4E61-B258-8CA3F6B72DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4527FE1C-AC4F-4018-B7FD-A852D752FB52}
+	EndGlobalSection
+EndGlobal
